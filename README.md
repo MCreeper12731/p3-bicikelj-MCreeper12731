@@ -8,12 +8,12 @@ Z naslednjim ukazom naložimo vse potrebne knižnjice za zagon programa.
 
 ## Skripte
 
-V mapi `scripts` so prisotni programi, ki generirajo .csv datoteke. `holidays.py` generira vse slovenske dela proste dneve, `meteodata.py` pa pridobi vremenske podatke (temperatura, količina padavin, hitrost vetra) od 1. januarja 2022 do 19. maja 2025. Obe skripti se zažene brez dodatnih parametrov.
+V mapi `scripts` so prisotni programi, ki generirajo pomožne .csv datoteke. `holidays.py` generira vse slovenske dela proste dneve, `meteodata.py` pa pridobi vremenske podatke (temperatura, količina padavin, hitrost vetra) od 1. januarja 2022 do 19. maja 2025. Obe skripti se zažene brez dodatnih parametrov.
 
 ## Raziskovanje podatkov
 
-V mapi `models.ipynb` je podrobnejša analiza podatkov, razlaga modelov in nekatere grafične predstavitve.
+V mapi `models.ipynb` je podrobnejša analiza podatkov, razlaga modelov in nekatere grafične predstavitve. Prav tako so v zvezku trenirani tudi modeli zaradi dolžine treniranja.
 
 ## Generiranje podatkov
 
-Skripta `final.py` generira vse napovedi za tekmovalni strežnik. Zažene se jo brez dodatnih parametrov
+Skripta `final.py` generira vse napovedi za tekmovalni strežnik. Zažene se jo brez dodatnih parametrov.

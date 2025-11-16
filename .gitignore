@@ -1,0 +1,19 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv
+.cache.sqlite
+
+# Editor files
+.idea
+.idea/*
+*~
+.project
+.pydevproject
+.settings/*
+.DS_Store
+
+# Windows temp files
+Thumbs.db
+
+# Data files
+data/bicikelj*
